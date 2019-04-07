@@ -44,7 +44,7 @@
     "rimraf": "~2.2.5",
     "request": "~2.30.0",
     "which": "1",
-    "tar": "~0.1.19",
+    "tar": "~4.4.2",
     "fstream": "~0.1.25",
     "block-stream": "0.0.7",
     "mkdirp": "~0.3.5",
